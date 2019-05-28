@@ -2,7 +2,7 @@
 
 date: 2019-05-28
 
-author: Alexandra Heiss
+author: Max Kroehling
 
 gelernt haben wir:
 - urllib
